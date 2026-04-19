@@ -11,6 +11,7 @@ My goal is to operate as a builder-first product manager, connecting deep techni
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **Model Benchmark** | Blind A/B/C test of frontier LLMs on real PM tasks (synthesize feedback, write briefs, prioritize, analyze competitors, notes-to-decision) — reveals which model wins which workflow, not which wins generic benchmarks | Next.js 16, TypeScript, Tailwind, Anthropic + OpenAI + Google + OpenRouter SDKs, SQLite |
 | **Product Discovery Agent** | AI agent that researches a problem space like a senior PM — with configurable scoring, multi-source input, and a two-layer eval framework (execution + outcome quality) | Python, LangChain, GPT-4o-mini, Tavily, Pydantic, LangSmith |
 | **Token Battery** | macOS menubar app that monitors Claude Code token usage in real time — like a battery indicator for your AI budget | Python, rumps, Claude API |
 | **LinkedIn Post Finder** | Engagement dashboard to track and interact with influential PM/tech voices daily | Python |
