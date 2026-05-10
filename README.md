@@ -16,5 +16,6 @@ My goal is to operate as a builder-first product manager, connecting deep techni
 | **Token Battery** | macOS menubar app that monitors Claude Code token usage in real time — like a battery indicator for your AI budget | Python, rumps, Claude API |
 | **LinkedIn Post Finder** | Engagement dashboard to track and interact with influential PM/tech voices daily | Python |
 | **iOS App** | iOS application (in development) | Swift |
+| **Nonna's Cookbook RAG** | Agentic recipe assistant inside my iOS app — three-path routing across a personal knowledge base, LLM general knowledge, and live web search, gated by an LLM-as-judge relevance check. Built-in Observer mode visualizes contextualization, embeddings, vector search, routing, and synthesis in real time | Flutter, Firebase Cloud Functions, Firestore vector search, OpenAI (GPT-4o + text-embedding-3-small), Tavily |
 | **TensorFlow Articles** | Supporting material for my TensorFlow articles | Python, TensorFlow |
 | **Coursera Capstone** | Data science capstone project | Python |
